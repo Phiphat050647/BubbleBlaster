@@ -9,7 +9,6 @@
 
 import customtkinter as ctk
 from tkinter import filedialog, messagebox
-
 import sys, os, requests, json, webbrowser
 import easyocr
 import cv2

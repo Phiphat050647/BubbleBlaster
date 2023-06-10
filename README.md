@@ -25,7 +25,7 @@ https://github.com/Aeonss/BubbleBlaster/releases/latest/
 ```
 
 Download the requirements:
-``` bash
+``` bashpip install deep_translator
 pip install -r requirements.txt
 ```
 
